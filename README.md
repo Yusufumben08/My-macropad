@@ -19,10 +19,10 @@ Case Parts:
 ![image](/image2.png)
 ![image](/image3.png)
 
-Parts list:
-*Seeed XIAO RP2040
-*9x MX-Style switches 
-*EC11 Rotary encoder
-*9x Blank DSA keycaps
-*9x SK6812 MINI-E LEDs
-*9x Through-hole 1N4148 Diodes 
+Parts list: <br>
+*Seeed XIAO RP2040<br>
+*9x MX-Style switches <br>
+*EC11 Rotary encoder<br>
+*9x Blank DSA keycaps<br>
+*9x SK6812 MINI-E LEDs<br>
+*9x Through-hole 1N4148 Diodes <br>
