@@ -1,6 +1,6 @@
 # My-macropad
 
-first electronics project. I found this last second so i couldnt do much more than this because of the time constraint. Made in 5~ hours.
+first electronics project. I found this last second so i couldnt do much more than this because of the time constraint. Made in 5~ hours. I have access to a 3d printer and will print the case myself (possibly iterating on it to make it look better.)
 
 Parts list: <br>
 *Seeed XIAO RP2040<br>
