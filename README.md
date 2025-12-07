@@ -1,7 +1,7 @@
 # My-macropad
 
 first electronics project. I found this last second so i couldnt do much more than this because of the time constraint. Made in 5~ hours. I have access to a 3d printer and will print the case myself (possibly iterating on it to make it look better.)
-
+<h1>Worked together with @Yusufumben08, we made the models in fusion360 and worked on the pcb together.</h1>
 Parts list: <br>
 *Seeed XIAO RP2040<br>
 *9x MX-Style switches <br>
