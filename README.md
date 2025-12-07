@@ -1,6 +1,14 @@
 # My-macropad
+
+first electronics project. I found this last second so i couldnt do much more than this because of the time constraint. Made in 5~ hours. I have access to a 3d printer and will print the case myself (possibly iterating on it to make it look better.)
 <h1>Worked together with @Yusufumben08, we made the models in fusion360 and worked on the pcb together.</h1>
-first electronics project. I found this last second so i couldnt do much more than this because of the time constraint. Made in 5~ hours.
+Parts list: <br>
+*Seeed XIAO RP2040<br>
+*9x MX-Style switches <br>
+*EC11 Rotary encoder<br>
+*9x Blank DSA keycaps<br>
+*9x SK6812 MINI-E LEDs<br>
+*9x Through-hole 1N4148 Diodes <br>
 
 Schematic:
 
@@ -18,5 +26,4 @@ Case Parts:
 
 ![image](/image2.png)
 ![image](/image3.png)
-
 
