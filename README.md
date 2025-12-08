@@ -10,6 +10,8 @@ Parts list / BOM: <br>
 *9x SK6812 MINI-E LEDs 35TL~ (same with the switches, the only listing i could find sold 10 so approximate price.) [link](https://tr.aliexpress.com/item/1005005248164351.html) <br>
 *9x Through-hole 1N4148 Diodes 9x0,41 ,3,67TL [link](https://www.direnc.net/1n4148-diyot-mic)<br>
 
+Total: 1025TL~ = 24~ US dollars
+
 Schematic:
 
 ![image](/image.png)
